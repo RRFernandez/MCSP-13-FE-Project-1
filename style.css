@@ -1,0 +1,85 @@
+html {
+    background: rgb(53, 49, 49);
+    background-image: url(yeezus.png);
+    background-size: 100%;
+    margin: 15px;
+}
+
+.container {
+    background-color: rgb(0, 0, 0);
+    align-items: center;
+    height: 80px;
+    /* max-width: 500px; */
+    margin: auto;
+    width: 50%;
+    border: 5px solid rgb(5, 39, 76);
+    padding: 30px;
+    border-radius: 50%;
+}
+
+.yeezus {
+    height: 40px;
+    width: 90px;
+    font: bold;
+    color: white;
+    background-image: url(yeezus.png);
+    background-size: 100%;
+    margin: 0 auto;
+    display: block;
+    border-radius: 10%;
+}
+
+#kuote {
+    color: rgb(240, 202, 202);
+    /* background-color: black; */
+    border-radius: 5%;
+    text-align: center;
+    font-size: 18px;
+    margin: 5px;
+}
+
+button {
+    display: block;
+}
+
+.themes {
+    display: block;
+    background-color: rgb(27, 6, 40);
+    max-width: 80px;
+    height: 180px;
+}
+
+.collegeDrop {
+    height: 40px;
+    width: 80px;
+    background-image: url(collegedropout.jpg);
+    background-size: 100%;
+    color: rgb(133, 210, 210);
+    margin-bottom: 10px;
+}
+
+.lateReg {
+    height: 40px;
+    width: 80px;
+    background-image: url(lateregButton.jpeg);
+    background-size: 100%;
+    color: antiquewhite;
+    margin-bottom: 10px;
+}
+
+.graduation {
+    height: 40px;
+    width: 80px;
+    background-image: url(graduationButton.jpg);
+    background-size: 100%;
+    color: rgb(133, 210, 210);
+    margin-bottom: 10px;
+}
+
+.yeTriple {
+    height: 40px;
+    width: 80px;
+    background-image: url(bestalbumsButton.png);
+    background-size: 100%;
+    color: rgb(133, 210, 210);
+}
