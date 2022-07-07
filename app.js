@@ -16,10 +16,10 @@ const greatGenius = () => {
 };
 
 
-const collegeDropTheme = () => $('html').css("backgroundImage", "url(collegedropout.jpg)");
+const collegeDropTheme = () => $('html').css("backgroundImage", "url(img/collegedropout.jpg)");
 
-const lateRegTheme = () => $('html').css("backgroundImage", "url(latereg.jpg)");
+const lateRegTheme = () => $('html').css("backgroundImage", "url(img/latereg.jpg)");
 
-const graduationTheme = () => $('html').css("backgroundImage", "url(graduation.png)");
+const graduationTheme = () => $('html').css("backgroundImage", "url(img/graduation.png)");
 
-const yeTripleTheme = () => $('html').css("backgroundImage", "url(bestalbums.webp)");
+const yeTripleTheme = () => $('html').css("backgroundImage", "url(img/bestalbums.webp)");

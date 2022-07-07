@@ -1,6 +1,6 @@
 html {
     background: rgb(53, 49, 49);
-    background-image: url(yeezus.png);
+    background-image: url(img/yeezus.png);
     background-size: 100%;
     margin: 15px;
 }
@@ -22,7 +22,7 @@ html {
     width: 90px;
     font: bold;
     color: white;
-    background-image: url(yeezus.png);
+    background-image: url(img/yeezus.png);
     background-size: 100%;
     margin: 0 auto;
     display: block;
@@ -52,7 +52,7 @@ button {
 .collegeDrop {
     height: 40px;
     width: 80px;
-    background-image: url(collegedropout.jpg);
+    background-image: url(img/collegedropout.jpg);
     background-size: 100%;
     color: rgb(133, 210, 210);
     margin-bottom: 10px;
@@ -61,7 +61,7 @@ button {
 .lateReg {
     height: 40px;
     width: 80px;
-    background-image: url(lateregButton.jpeg);
+    background-image: url(img/lateregButton.jpeg);
     background-size: 100%;
     color: antiquewhite;
     margin-bottom: 10px;
@@ -70,7 +70,7 @@ button {
 .graduation {
     height: 40px;
     width: 80px;
-    background-image: url(graduationButton.jpg);
+    background-image: url(img/graduationButton.jpg);
     background-size: 100%;
     color: rgb(133, 210, 210);
     margin-bottom: 10px;
@@ -79,7 +79,7 @@ button {
 .yeTriple {
     height: 40px;
     width: 80px;
-    background-image: url(bestalbumsButton.png);
+    background-image: url(img/bestalbumsButton.png);
     background-size: 100%;
     color: rgb(133, 210, 210);
 }
