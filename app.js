@@ -1,3 +1,4 @@
+//generates quote on page load/reload
 fetch("https://api.kanye.rest")
     .then((response) => response.json())
     .then((data) => {
@@ -5,6 +6,8 @@ fetch("https://api.kanye.rest")
         $("#kuote").text(data.quote)
     })
 
+
+//quote generator button
 const greatGenius = () => {
 
     fetch("https://api.kanye.rest")
@@ -15,7 +18,7 @@ const greatGenius = () => {
         })
 };
 
-
+//theme changers
 const collegeDropTheme = () => $('html').css("backgroundImage", "url(img/collegedropout.jpg)");
 
 const lateRegTheme = () => $('html').css("backgroundImage", "url(img/latereg.jpg)");
